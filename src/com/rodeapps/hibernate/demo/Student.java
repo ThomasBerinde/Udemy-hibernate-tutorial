@@ -1,4 +1,4 @@
-package com.rodeapps.hibernate.demo.entity;
+package com.rodeapps.hibernate.demo;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
